@@ -12,13 +12,26 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+🤔 &nbsp; The steadfast determination of an ordinary soul.
+
+<!--
   - 🤔 &nbsp; Learning web development, focusing on JavaScript and popular front-end frameworks.
   - 🎓 &nbsp; Currently pursuing a Master's degree in Software Engineering at Soochow University.
   - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Network traffic measurement.
   - ✍️ &nbsp; Enjoys reading novels and writing essays in leisure time.
+-->
 
-<h3> 🤝🏻 &nbsp;Connect with Me</h3>
+<!--
+<h3> 🤝🏻 &nbsp;Connect with Me
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://decade.net.cn" target="_blank">
+        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Decade">
+      </a>
+    </p>
+</h3>
+-->
 
+<!--
 <div>
     <span align="right">
       <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decade-qiu&layout=compact&langs_count=6&bg_color=E6E6FA" alt="https://raw.githubusercontent.com/Decade-qiu/Decade-qiu/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231224134245.png">
@@ -47,6 +60,7 @@
     </p>
   </span>
 </div>
+-->
 
 <!-- <img src="https://streak-stats.demolab.com/?user=Decade-qiu"> -->
 <p> &nbsp;</p>
