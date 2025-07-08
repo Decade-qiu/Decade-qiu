@@ -13,9 +13,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; The steadfast determination of an ordinary soul.
-  
 
-- 🤝🏻 &nbsp; <a href="https://decade.net.cn" target="_blank" style="display:block;margin:1px"><img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Decade"></a>
+- 🤝🏻 &nbsp; [Click me!](https://decade.net.cn)
 
 <!--
   - 🤔 &nbsp; Learning web development, focusing on JavaScript and popular front-end frameworks.
