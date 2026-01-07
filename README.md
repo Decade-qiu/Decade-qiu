@@ -4,7 +4,8 @@
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=javascript&logoColor=black" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=javascript&logoColor=black" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=black" style="display: inline-block;" /> 
     <img src="https://komarev.com/ghpvc/?username=Decade-qiu" alt="1879" style="display: inline-block;">
