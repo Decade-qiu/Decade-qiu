@@ -12,7 +12,7 @@
   </div>
 </h1>
 <div align="center" style="font-size: 12px; margin-top: 1px;">
-  <a href="https://your-link-here">Click me!</a>
+  <a href="https://decade.net.cn">Click me!</a>
 </div>
 
 
